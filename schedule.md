@@ -22,6 +22,9 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
   - Refs: ch 1.1, 1.2, and other sources.
   - Calc Review and Floating Point Numbers. 
   - Refs: ch 1.1 and 1.2 and other sources. 
+  - Mixed precision computing is being used to speed up computations,
+    e.g., on GPUs.  See [Carson, Mary, "Mixed-precision Computing:
+    High Accuracy with Low Precision", SIAM News, v 58, Nov 2025](https://www.siam.org/publications/siam-news/articles/mixed-precision-computing-high-accuracy-with-low-precision/).
 
 #### Week 2, Chapter 1 (floating pt numbers, scientific computing)
 
